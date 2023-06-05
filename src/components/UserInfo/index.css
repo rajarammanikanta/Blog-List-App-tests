@@ -1,0 +1,10 @@
+.profile {
+  height: 140px;
+  width: 140px;
+}
+.user-profile-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
